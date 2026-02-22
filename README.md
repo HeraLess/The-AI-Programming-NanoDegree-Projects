@@ -1,2 +1,2 @@
-# The-AI-Programming-NanoDegree-Projects
-Welcome to the AI Programming Nanodegree Projects repository! This repo contains several projects that are part of the Udacity AI Programming with Python Nanodegree program. Each project showcases a different aspect of artificial intelligence, machine learning, and deep learning using Python and popular libraries like NumPy, Pandas, Matplotlib, PyTorch, and more. And this repo projects are done my Me!
+> **Repo Archived 📁**
+> Just a few starter projects I built during the AWS AI & ML scholarship. I've earned some nice badges too; feel free to take a look.
